@@ -1,10 +1,10 @@
 {
   "title": "Noe keyboard remapping",
   "author": "Noé Froidevaux (noe@noefroidevaux.com)",
-  "homepage": "https://github.com:noefroidevaux/keyboard-remapping",
-  "hostpage": "https://pqrs.org/osx/karabiner/complex_modifications/",
-  "manual": "https://github.com:noefroidevaux/keyboard-remapping/master/README.md",
-  "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://github.com/noefroidevaux/keyboard-remapping/master/noe.json",
+  "homepage": "https://github.com/noefroidevaux/keyboard-remapping",
+  "hostpage": "https://ke-complex-modifications.pqrs.org/",
+  "manual": "https://github.com/noefroidevaux/keyboard-remapping/blob/master/README.md",
+  "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/noefroidevaux/keyboard-remapping/master/noe.json",
   "rules": [
     {
       "description": "CapsLock to Hyper/Escape",
