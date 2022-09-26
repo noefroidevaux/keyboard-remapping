@@ -149,6 +149,11 @@
           "type": "basic"
         },
         {
+          "from": {"key_code": "z", "modifiers": {"mandatory": ["right_command"]}},
+          "to": [{"shell_command": "open -a 'Simulator'"}],
+          "type": "basic"
+        },
+        {
           "from": {"key_code": "c", "modifiers": {"mandatory": ["right_command"]}},
           "to": [{"shell_command": "open -a 'Calendar'"}],
           "type": "basic"
