@@ -140,7 +140,7 @@
         },
         {
           "from": {"key_code": "g", "modifiers": {"mandatory": ["right_command"]}},
-          "to": [{"shell_command": "open -a 'Things'"}],
+          "to": [{"shell_command": "open -a 'Things3'"}],
           "type": "basic"
         },
         {
