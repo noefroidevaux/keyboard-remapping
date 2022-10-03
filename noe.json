@@ -167,6 +167,11 @@
           "from": {"key_code": "f", "modifiers": {"mandatory": ["right_command"]}},
           "to": [{"shell_command": "open -a 'Finder'"}],
           "type": "basic"
+        },
+        {
+          "from": {"key_code": "p", "modifiers": {"mandatory": ["right_command"]}},
+          "to": [{"shell_command": "open -a 'Strongbox'"}],
+          "type": "basic"
         }
       ]
     }
