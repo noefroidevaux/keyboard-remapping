@@ -145,7 +145,7 @@
         },
         {
           "from": {"key_code": "x", "modifiers": {"mandatory": ["right_command"]}},
-          "to": [{"shell_command": "open -a 'Xcode'"}],
+          "to": [{"shell_command": "open -a '/Applications/Xcode.app'"}],
           "type": "basic"
         },
         {
