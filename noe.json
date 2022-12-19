@@ -119,13 +119,18 @@
           "type": "basic"
         },
         {
-          "from": {"key_code": "t", "modifiers": {"mandatory": ["right_command"]}},
+          "from": {"key_code": "d", "modifiers": {"mandatory": ["right_command"]}},
           "to": [{"shell_command": "open -a 'WezTerm'"}],
           "type": "basic"
         },
         {
           "from": {"key_code": "s", "modifiers": {"mandatory": ["right_command"]}},
           "to": [{"shell_command": "open -a 'Slack'"}],
+          "type": "basic"
+        },
+        {
+          "from": {"key_code": "t", "modifiers": {"mandatory": ["right_command"]}},
+          "to": [{"shell_command": "open -a 'Microsoft Teams'"}],
           "type": "basic"
         },
         {
