@@ -139,7 +139,7 @@
           "type": "basic"
         },
         {
-          "from": {"key_code": "d", "modifiers": {"mandatory": ["right_command"]}},
+          "from": {"key_code": "l", "modifiers": {"mandatory": ["right_command"]}},
           "to": [{"shell_command": "open -a 'DeepL'"}],
           "type": "basic"
         },
