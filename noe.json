@@ -115,7 +115,7 @@
       "manipulators": [
         {
           "from": {
-            "key_code": "w",
+            "key_code": "f",
             "modifiers": {"mandatory": ["right_command", "right_control", "right_shift", "right_option"]}
           },
           "to": [{"shell_command": "open -a 'Safari'"}],
@@ -139,14 +139,6 @@
         },
         {
           "from": {
-            "key_code": "t",
-            "modifiers": {"mandatory": ["right_command", "right_control", "right_shift", "right_option"]}
-          },
-          "to": [{"shell_command": "open -a 'Microsoft Teams'"}],
-          "type": "basic"
-        },
-        {
-          "from": {
             "key_code": "e",
             "modifiers": {"mandatory": ["right_command", "right_control", "right_shift", "right_option"]}
           },
@@ -155,7 +147,7 @@
         },
         {
           "from": {
-            "key_code": "l",
+            "key_code": "t",
             "modifiers": {"mandatory": ["right_command", "right_control", "right_shift", "right_option"]}
           },
           "to": [{"shell_command": "open -a 'DeepL'"}],
@@ -163,7 +155,7 @@
         },
         {
           "from": {
-            "key_code": "g",
+            "key_code": "r",
             "modifiers": {"mandatory": ["right_command", "right_control", "right_shift", "right_option"]}
           },
           "to": [{"shell_command": "open -a 'Things3'"}],
@@ -171,7 +163,7 @@
         },
         {
           "from": {
-            "key_code": "x",
+            "key_code": "v",
             "modifiers": {"mandatory": ["right_command", "right_control", "right_shift", "right_option"]}
           },
           "to": [{"shell_command": "open -a '/Applications/Xcode.app'"}],
@@ -179,7 +171,7 @@
         },
         {
           "from": {
-            "key_code": "z",
+            "key_code": "b",
             "modifiers": {"mandatory": ["right_command", "right_control", "right_shift", "right_option"]}
           },
           "to": [{"shell_command": "open -a 'Simulator'"}],
@@ -195,7 +187,7 @@
         },
         {
           "from": {
-            "key_code": "m",
+            "key_code": "g",
             "modifiers": {"mandatory": ["right_command", "right_control", "right_shift", "right_option"]}
           },
           "to": [{"shell_command": "open -a 'Music'"}],
@@ -203,7 +195,7 @@
         },
         {
           "from": {
-            "key_code": "f",
+            "key_code": "w",
             "modifiers": {"mandatory": ["right_command", "right_control", "right_shift", "right_option"]}
           },
           "to": [{"shell_command": "open -a 'Finder'"}],
@@ -211,7 +203,7 @@
         },
         {
           "from": {
-            "key_code": "p",
+            "key_code": "a",
             "modifiers": {"mandatory": ["right_command", "right_control", "right_shift", "right_option"]}
           },
           "to": [{"shell_command": "open -a 'Strongbox'"}],
