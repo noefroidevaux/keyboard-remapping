@@ -118,7 +118,7 @@
             "key_code": "f",
             "modifiers": {"mandatory": ["right_command", "right_control", "right_shift", "right_option"]}
           },
-          "to": [{"shell_command": "open -a 'Chromium'"}],
+          "to": [{"shell_command": "open -a 'Google Chrome'"}],
           "type": "basic"
         },
         {
